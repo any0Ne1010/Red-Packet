@@ -1,4 +1,4 @@
-# Encrypted Red Packet System 🧧
+# Red Packet 🧧
 
 A privacy-preserving red packet (hongbao) distribution system built with Fully Homomorphic Encryption (FHE) using Zama's FHEVM protocol. All token amounts remain encrypted on-chain, ensuring complete privacy for both senders and recipients.
 
