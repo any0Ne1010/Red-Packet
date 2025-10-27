@@ -16,7 +16,7 @@ A privacy-preserving red packet (hongbao) distribution system built with Fully H
 ## 📁 Project Structure
 
 ```
-zama-hongbao-contracts/
+Red-Packet/
 ├── contracts/
 │   ├── RedPacket.sol                    # Main red packet contract
 │   ├── ConfidentialToken.sol            # ERC7984 confidential token
